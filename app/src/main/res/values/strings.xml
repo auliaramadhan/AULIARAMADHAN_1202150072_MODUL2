@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AULIARAMADHAN_1202150072_MODUL2</string>
+    <string-array name="label_meja">
+        <item> Meja 1</item>
+        <item> Meja 2</item>
+        <item> Meja 3</item>
+        <item> Meja 4</item>
+        <item> Meja 5</item>
+    </string-array>
+
+    <array name="menu_images">
+        <item>@drawable/img_satemadura</item>
+        <item>@drawable/img_kwetiaugoreng</item>
+        <item>@drawable/img_miekuah</item>
+        <item>@drawable/img_miekuahupnormal</item>
+        <item>@drawable/img_migoreng</item>
+        <item>@drawable/img_nasgor</item>
+        <item>@drawable/img_nasgorbawang</item>
+        <item>@drawable/img_nasiwagyu</item>
+    </array>
+
+    <string-array name="menu_nama">
+        <item>Sate Madura</item>
+        <item>Kwetiau Goreng</item>
+        <item>Mie Kuah</item>
+        <item>Mie Kuah Upnormal</item>
+        <item>Mie Goreng</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Groneg Bawang</item>
+        <item>Nasi Goreng Wagyu</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>Rp 25.000</item>
+        <item>Rp 23.000</item>
+        <item>Rp 20.000</item>
+        <item>Rp 18.000</item>
+        <item>Rp 12.000</item>
+        <item>Rp 12.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 17.000</item>
+    </string-array>
+    <string-array name="komposisi" >
+        <item>ayam, sate, bumbu madura</item>
+        <item>sayur, smabal, kecap, </item>
+        <item>mie, kuah, micin</item>
+        <item>mie, kuah, micin</item>
+        <item>mie, kecap, sambal, sayur, timun</item>
+        <item>Nasi, kecap, daging ayam, smabal</item>
+        <item>Nasi, kecap, daging ayam, smabal, bawang</item>
+        <item>Nasi, kecap, daging ayam, smabal, wagyu</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
