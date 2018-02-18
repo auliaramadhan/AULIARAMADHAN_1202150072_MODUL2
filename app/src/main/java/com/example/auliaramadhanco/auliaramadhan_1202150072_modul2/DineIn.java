@@ -46,7 +46,7 @@ public class DineIn extends AppCompatActivity implements
 
     @Override
     public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
-        String mSpinnerLabel = (adapterView.getItemAtPosition(i).toString())+" Telah Terpilih";
+        String mSpinnerLabel = (adapterView.getItemAtPosition(i).toString())+"  Telah Terpilih";
         Toast.makeText(this, mSpinnerLabel, Toast.LENGTH_SHORT).show();
     }
 
