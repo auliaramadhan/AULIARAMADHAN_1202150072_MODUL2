@@ -20,6 +20,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:hint="Name"
+        android:inputType="text"
         android:layout_marginTop="30dp" />
 
     <EditText
@@ -35,6 +36,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:hint="Alamat"
+        android:inputType="text"
         android:layout_marginTop="30dp"
         />
     <EditText
@@ -42,6 +44,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:hint="Catatan"
+        android:inputType="text"
         android:layout_marginTop="30dp"
         />
     <EditText

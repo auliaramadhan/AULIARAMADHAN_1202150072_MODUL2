@@ -22,7 +22,7 @@ public class DineIn extends AppCompatActivity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dine_in);
         Intent i = getIntent();
-        Toast.makeText(this, i.getStringExtra("toast"), Toast.LENGTH_SHORT);
+        Toast.makeText(this, i.getStringExtra("toast"), Toast.LENGTH_SHORT).show();
 //        mangambil idspinner
         spinner = (Spinner) findViewById(R.id.pilihmeja);
 //        mengambil nilaui pada spinner
